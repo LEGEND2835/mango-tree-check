@@ -2,7 +2,7 @@
 Python program to check whether a given tree is a mango tree without using loops.
 
 Check if the given tree number is a mango tree or not, provided mango tree is present only in 1st row, 1st column, last column.
-Constraint - Loops are not allowed
+Constraint: Loops are not allowed
 
 Sample Input/Output:
 
